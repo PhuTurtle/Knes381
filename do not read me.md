@@ -1,2 +1,1 @@
-Why are you reading thisfile >:C
- Ok I forgive you now
+Ok I forgive you now
