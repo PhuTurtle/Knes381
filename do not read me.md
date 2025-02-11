@@ -1,1 +1,1 @@
-Ok I forgive you now
+I forgive you
