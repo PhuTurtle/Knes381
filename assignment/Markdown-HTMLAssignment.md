@@ -16,8 +16,7 @@ Look at this original image --------------------------------->
 
 
 Did you like it?  
-Yes or [No](https://github.com/PhuTurtle/Knes381/blob/main/assignment/Resources/do%20not%20read%20me.md)?
-
+Yes or <a href="Resources/do not read me.md"> No </a>
 <br clear="right"/>
 
-VO2
+<DottedLetter>V</DottedLetter>O<sub>2</sub>
