@@ -3,7 +3,4 @@
 ```diff
 -Cool red colour
 ```
-
-
-$${/color{blue}WORK}$$
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+$${\color{blue}Please \space \color{lightblue}Work \space \color{Blue}Done in latex btw}$$
