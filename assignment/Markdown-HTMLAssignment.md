@@ -3,4 +3,4 @@
 ```diff
 -Cool red colour
 ```
-$${\color{blue}Please \space \color{lightblue}Work \space \color{Blue}Done in latex btw}$$
+$${\color{blue}Please \space \color{lightblue}Work \space \color{Blue}Done \space in \space latex \space btw}$$
