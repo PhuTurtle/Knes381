@@ -3,7 +3,7 @@
 ```diff
 -Red text
 ```
-$${\color{blue}Please \space \color{lightblue}Work \space \color{Blue}Done \space in \space Latex \space btw}$$ 
+$${\color{blue}Please \ \color{lightblue}Work \ \color{Blue}Done \ in \ Latex \ btw}$$ 
 <!-- I Did colour in 3 differant ways just incase (insert suitable emoji here) -->
 
 <a href="Resources/image REAL.png"><img src="Resources/image REAL.png" align="right" width="400px"/></a> 
@@ -18,5 +18,4 @@ Look at this original image --------------------------------->
 Did you like it?  
 Yes or <a href="Resources/do not read me.md"> No </a>
 <br clear="right"/>
-
-<DottedLetter>V</DottedLetter>O<sub>2</sub>
+Lastly here is some V&#775;O<sub>2</sub>
