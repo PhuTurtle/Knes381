@@ -3,10 +3,10 @@
 ```diff
 -Red text
 ```
-$${\color{blue}Please \space \color{lightblue}Work \space \color{Blue}Done \space in \space Latex \space btw}$$ 
+$${\color{blue}Please \ \color{lightblue}Work \ \color{Blue}Done \ in \ Latex \ btw}$$ 
 <!-- I Did colour in 3 differant ways just incase (insert suitable emoji here) -->
 
-<img src="https://github.com/PhuTurtle/Knes381/blob/main/image%20REAL.png" align="right" width="400px"/>  
+<a href="Resources/image REAL.png"><img src="Resources/image REAL.png" align="right" width="400px"/></a> 
 <br>
 <br>
 <br>
@@ -16,8 +16,6 @@ Look at this original image --------------------------------->
 
 
 Did you like it?  
-Yes or [No](https://github.com/PhuTurtle/Knes381/blob/main/do%20not%20read%20me.md)?
-
+Yes or <a href="Resources/do not read me.md"> No </a>
 <br clear="right"/>
-
-VO2
+Lastly here is some V&#775;O<sub>2</sub>
