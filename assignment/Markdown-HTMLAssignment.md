@@ -6,7 +6,7 @@
 $${\color{blue}Please \ \color{lightblue}Work \ \color{Blue}Done \ in \ Latex \ btw}$$ 
 <!-- I Did colour in 3 differant ways just incase (insert suitable emoji here) -->
 
-<a href="Resources/image REAL.png"><img src="Resources/image REAL.png" align="right" width="400px"/></a> 
+<a href="Cool.md"><img src="Resources/image REAL.png" align="right" width="400px"/></a> 
 <br>
 <br>
 <br>
