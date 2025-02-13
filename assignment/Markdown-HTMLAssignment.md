@@ -12,8 +12,8 @@ $${\color{blue}Please \ \color{lightblue}Work \ \color{Blue}Done \ in \ Latex \ 
 <br>
 <br>
 <br>
-Look at this original image --------------------------------->  
-
+Look at this original image --------------------------------->    
+Click on image for something cool...
 
 Did you like it?  
 Yes or <a href="Resources/do not read me.md"> No </a>
