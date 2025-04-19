@@ -1,11 +1,3 @@
-# line one
-## line two
--bullet
--bullet 2
-**bold**
---mario--
-luigi
-AEIOU AEIOU AEIOU AEIOU
-The quick brown fox jumped over the lazy dog
-
-
+# Read me 
+Hello! I am Phu Nguyen a student of the University of Calgary
+This is a repository showcasing a portion of my work from Knes 381
